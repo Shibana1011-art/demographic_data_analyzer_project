@@ -1,0 +1,3 @@
+import demographic_data_analyzer
+
+print(demographic_data_analyzer.calculate_demographic_data())
